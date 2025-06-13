@@ -1,0 +1,17 @@
+Início
+
+    Definir USUARIO_CORRETO como "admin"
+    Definir SENHA_CORRETA como "1234"
+    
+    Escreva "Digite o nome de usuário:"
+    Leia usuarioDigitado
+    
+    Escreva "Digite a senha:"
+    Leia senhaDigitada
+
+    Se usuarioDigitado = USUARIO_CORRETO E senhaDigitada = SENHA_CORRETA então
+        Escreva "Login realizado com sucesso!"
+    Senão
+        Escreva "Usuário ou senha incorretos."
+
+Fim
